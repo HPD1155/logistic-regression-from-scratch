@@ -16,8 +16,6 @@ The goal is to understand how a simple classifier works at a fundamental level:
 
 This is about understanding the mechanics behind logistic regression.
 
-## Notebook Coming Soon
+# Inside the Notebook
 
-Right now, this repository contains the standalone Python implementation.
-
-The full notebook version including structured explanations and detailed mathematical breakdowns will be released once the documentation is complete.
+I’ve documented the full process of building this model to show exactly what happens "under the hood." It covers everything from initializing weights and biases to the math behind the backward pass. This is designed to be a clear, readable resource for anyone looking to understand the fundamentals of machine learning without the "black box" of modern libraries.
